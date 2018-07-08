@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Foobar Projects</title>
+    <link>https://foobarschool.github.io/projects/posts/</link>
+    <description>Recent content in Posts on Foobar Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jul 2018 00:40:14 -0700</lastBuildDate>
+    
+	<atom:link href="https://foobarschool.github.io/projects/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://foobarschool.github.io/projects/posts/my-first-post/</link>
+      <pubDate>Sun, 08 Jul 2018 00:40:14 -0700</pubDate>
+      
+      <guid>https://foobarschool.github.io/projects/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
